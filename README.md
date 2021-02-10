@@ -1,7 +1,7 @@
-### Code is the most honest, straight forward friend one could have.
-Currently learning Web Development (JavaScript, CSS, HTML).
-Already studied some Android App development (Android Studio)
-Reach me on Kenan-na@live.com
+### Code is the most honest, straight forward friend one could have.  
+Currently learning Web Development (JavaScript, CSS, HTML).  
+Already studied some Android App development (Android Studio)  
+Reach me on Kenan-na@live.com  
 
 <!--
 **Kenan-Alnaser/Kenan-Alnaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
