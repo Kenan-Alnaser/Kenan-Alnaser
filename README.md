@@ -1,4 +1,4 @@
-### Hi there 👋
+### Code is the most honest, straight forward friend one could have.
 
 <!--
 **Kenan-Alnaser/Kenan-Alnaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
