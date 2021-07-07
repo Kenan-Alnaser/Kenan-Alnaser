@@ -2,6 +2,7 @@
 Currently learning Web Development (JavaScript, CSS, HTML, React).  
 Already studied some Android App development (Android Studio)
 Some experience with C++ and Pyhton.
+
 Reach me on Kenan-na@live.com  
 
 <!--
