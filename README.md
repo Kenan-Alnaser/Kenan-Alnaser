@@ -1,5 +1,5 @@
 ### Code is the most honest, straight forward friend one could have.  
-Currently learning Web Development (JavaScript, CSS, HTML, React).  
+Knowledge in Web Development (JavaScript, CSS, HTML, React).  
 Already studied some Android App development (Android Studio)
 Some experience with C++ and Pyhton.
 
